@@ -1,0 +1,12 @@
+<!ENTITY gaurav.label "Your localized menuitem">
+<!ENTITY gauravToolbar.label "Your Toolbar Button">
+<!ENTITY gauravToolbar.tooltip "This is your toolbar button!">
+
+
+<!ENTITY gaurav.gaurav "Gaurav Tiwari">
+<!ENTITY gaurav.open "Open Gaurav Tiwari's blog'">
+<!ENTITY gaurav.open.window "Open Gaurav Tiwari's blog in New Window">
+<!ENTITY gaurav.about "About Gaurav Tiwari's blog' ...">
+<!ENTITY gaurav.gaurav.about "About Gaurav Tiwari" >
+<!ENTITY gaurav.button.close.label "Close" >
+

@@ -1,0 +1,6 @@
+content	gaurav	content/
+locale	gaurav	en-US	locale/en-US/
+skin	gaurav	classic/1.0	skin/
+
+overlay	chrome://browser/content/browser.xul chrome://gaurav/content/boot/overlay.xul
+style	chrome://browser/content/browser.xul chrome://gaurav/skin/overlay.css
